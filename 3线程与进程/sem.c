@@ -2,7 +2,7 @@
 	> File Name: sem.c
 	> Author: 
 	> Mail: 
-	> Created Time: Thu 20 Apr 2017 02:05:07 PM HKT
+	> Created Time:
  ************************************************************************/
 
 #include<stdio.h>
